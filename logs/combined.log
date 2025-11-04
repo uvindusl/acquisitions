@@ -1,2 +1,15 @@
 {"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
 {"level":"info","message":"::ffff:127.0.0.1 - - [04/Nov/2025:12:54:28 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [04/Nov/2025:13:04:01 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [04/Nov/2025:13:04:02 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [04/Nov/2025:13:04:25 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [04/Nov/2025:13:04:25 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:13:06:20 +0000] \"GET /api/auth/sigin-in HTTP/1.1\" 404 156 \"-\" \"PostmanRuntime/7.49.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:13:06:29 +0000] \"POST /api/auth/sigin-in HTTP/1.1\" 404 157 \"-\" \"PostmanRuntime/7.49.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:13:07:03 +0000] \"POST /health HTTP/1.1\" 404 146 \"-\" \"PostmanRuntime/7.49.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [04/Nov/2025:13:07:17 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [04/Nov/2025:13:07:18 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:13:07:22 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"PostmanRuntime/7.49.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:13:07:46 +0000] \"POST /api/auth/sigin-in HTTP/1.1\" 404 157 \"-\" \"PostmanRuntime/7.49.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:13:08:33 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.49.0\"","service":"acquisitions-api"}
